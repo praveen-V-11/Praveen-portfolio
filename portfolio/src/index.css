@@ -1,0 +1,42 @@
+@import "tailwindcss";
+@media (min-width: 344px) and (max-width: 912px) {
+    .main {
+        width: 1144px;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 768px) {
+    .main {
+        width: 1144px;
+        padding: 10px;
+    }
+}
+@media (min-width: 320px) {
+    .main {
+        width: 1144px;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 853px) {
+    .main {
+        width: 830px;
+        padding: 10px;
+    }
+}
+
+
+@media (min-width: 912px) {
+    .main {
+        width: 1144px;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .main {
+        width: auto !important;
+        padding: 10px;
+    }
+}
